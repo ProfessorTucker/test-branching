@@ -1,1 +1,2 @@
-This has errors
+This is an authentication script
+
